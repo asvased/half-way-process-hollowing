@@ -1,0 +1,12 @@
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.bin
+*.log
+.vs/
+*.user
+*.suo
+.idea/
+__pycache__/
